@@ -12,7 +12,7 @@ Los modelos predictivos incluidos en este repositorio fueron desarrollados por:
  
 - **Santiago Piedrahita** - 1040328162  
 - **Jose Manuel Candamil** - 1017144516
-- - **Yorbis Aragon Bedoya** - 1038103291  
+- **Yorbis Aragon Bedoya** - 1038103291  
 
 ## 📂 Contenido
 
