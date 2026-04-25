@@ -9,10 +9,10 @@ Desarrollar e implementar modelos predictivos aplicando técnicas de aprendizaje
 ## 👥 Integrantes
 
 Los modelos predictivos incluidos en este repositorio fueron desarrollados por:
-
-- **Yorbis Aragon Bedoya** - 1038103291  
+ 
 - **Santiago Piedrahita** - 1040328162  
-- **Jose Manuel Candamil** - 1017144516  
+- **Jose Manuel Candamil** - 1017144516
+- - **Yorbis Aragon Bedoya** - 1038103291  
 
 ## 📂 Contenido
 
