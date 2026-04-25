@@ -18,10 +18,10 @@ Los modelos predictivos incluidos en este repositorio fueron desarrollados por:
 
 En este repositorio encontrarás:
 
-- Scripts de procesamiento de datos  
-- Implementación de modelos de aprendizaje automático  
-- Evaluación de modelos predictivos  
-- Documentación de resultados  
+- Notebooks 
+- Implementación de modelos  
+- Dataset 
+ 
 
 ## 🛠️ Tecnologías utilizadas
 
